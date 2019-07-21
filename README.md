@@ -1,3 +1,6 @@
+# mortality_prediction
+member: Liyan Fang, Shimeng Jiang, Xujian Liang, Zhiyong Deng
+
 ## Data preprocessing
 
 > Since the raw datasets from mimic3 database are too large, we have created test dataset in the directory: `data/test_data/`, which contains `data1.zip` and `data2.zip` that are sub datasets for testing codes for data preprocess.
